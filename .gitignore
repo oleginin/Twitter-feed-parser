@@ -1,3 +1,6 @@
-# Build folder and log file
-build/
-build.log
+seen_tweets.json
+bot.log
+__pycache__/
+*.pyc
+venv/
+.env
